@@ -7,11 +7,11 @@ import ViewBasedAnimations from "@/components/ViewBasedAnimations";
 export default function Home() {
   return (
     <main>
-      <MotionFoundations />
-      {/* <Gestures />
-      <AnimationControls />
-      <ViewBasedAnimations />
-      <ScrollAnimations /> */}
+      {/* <MotionFoundations /> */}
+      <Gestures />
+      {/* <AnimationControls /> */}
+      {/* <ViewBasedAnimations /> */}
+      {/* <ScrollAnimations /> */}
     </main>
   );
 }
